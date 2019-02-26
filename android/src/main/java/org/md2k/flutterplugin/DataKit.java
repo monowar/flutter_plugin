@@ -27,7 +27,11 @@ package org.md2k.flutterplugin;
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 public class DataKit {
-    String getString(){
+    public String getString(){
         return "DataKit";
     }
+    public String getString1(){
+        return "DataKit1";
+    }
+
 }
